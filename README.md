@@ -124,5 +124,7 @@ COMMIT;
 
 ## 🔒 Security & Roles
 
+- Roles = users + permissions
+
 
 
