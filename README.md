@@ -133,4 +133,33 @@ GRANT SELECT, INSERT ON users TO app_user;
 
 ## ⚙️ Views & Functions
 
+- View: Stored query
+
+```sql
+
+CREATE VIEW active_users AS
+SELECT * FROM users WHERE active = true;
+
+```
+
+- Functions (PL/pgSQL)
+
+```sql
+
+CREATE FUNCTION get_user_count()
+RETURNS INTEGER AS $$
+BEGIN
+  RETURN (SELECT COUNT(*) FROM users);
+END;
+$$ LANGUAGE plpgsql;
+
+```
+
+## 📦 Backup & Restore
+
+- Backup: pg_dump
+
+- Restore: pg_restore
+
+- Full cluster: pg_dumpall
 
