@@ -15,3 +15,4 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - Numeric: INTEGER, BIGINT, SERIAL, NUMERIC, FLOAT
 - Character: VARCHAR(n), CHAR(n), TEXT
 - Date/Time: DATE, TIME, TIMESTAMP, INTERVAL
+- Boolean: BOOLEAN
