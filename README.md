@@ -91,6 +91,7 @@ INNER JOIN orders o ON u.id = o.user_id;
 
 - COUNT, SUM, AVG, MIN, MAX
 - GROUP BY
+- HAVING
 
 
 
