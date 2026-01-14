@@ -71,6 +71,7 @@ DELETE FROM users WHERE id = 1;
 - WHERE, AND, OR
 - ORDER BY
 - LIMIT, OFFSET
+- LIKE, ILIKE
 
 
 
