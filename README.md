@@ -81,5 +81,11 @@ DELETE FROM users WHERE id = 1;
 - RIGHT JOIN
 - FULL JOIN
 
+```sql
+SELECT u.name, o.total
+FROM users u
+INNER JOIN orders o ON u.id = o.user_id;
+```
+
 
 
