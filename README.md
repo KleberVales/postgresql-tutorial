@@ -51,5 +51,9 @@ CREATE TABLE users (
 - One-to-Many
 - Many-to-Many (junction table)
 
+```sql
+FOREIGN KEY (user_id) REFERENCES users(id)
+```
+
 
 
