@@ -66,5 +66,7 @@ UPDATE users SET name = 'New Name' WHERE id = 1;
 DELETE FROM users WHERE id = 1;
 ```
 
+### Filtering & Ordering
+
 
 
