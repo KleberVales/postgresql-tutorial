@@ -12,3 +12,4 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - Default schema: public
 
 ## 📊 Data Types
+- Numeric: INTEGER, BIGINT, SERIAL, NUMERIC, FLOAT
