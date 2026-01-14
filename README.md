@@ -108,6 +108,8 @@ CREATE INDEX idx_users_email ON users(email);
     - Hash
 
     - GIN / GiST (JSON, full-text search)
+ 
+## 🔐 Transactions
 
 
 
