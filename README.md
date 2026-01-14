@@ -42,6 +42,7 @@ CREATE TABLE users (
 - FOREIGN KEY
 - UNIQUE
 - NOT NULL
+- CHECK
 
 
 
