@@ -10,3 +10,5 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - Database: Logical container for data.
 - Schema: Namespace to organize database objects.
 - Default schema: public
+
+## 📊 Data Types
