@@ -126,5 +126,9 @@ COMMIT;
 
 - Roles = users + permissions
 
+```sql
+CREATE ROLE app_user LOGIN PASSWORD '123';
+GRANT SELECT, INSERT ON users TO app_user;
+```
 
 
