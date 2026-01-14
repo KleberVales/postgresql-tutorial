@@ -76,5 +76,7 @@ DELETE FROM users WHERE id = 1;
 
 ## 📐 Joins
 
+- INNER JOIN
+
 
 
