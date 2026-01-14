@@ -120,5 +120,7 @@ UPDATE accounts SET balance = balance + 100 WHERE id = 2;
 COMMIT;
 ```
 
+- ROLLBACK to cancel
+
 
 
