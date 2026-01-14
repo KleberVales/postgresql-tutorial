@@ -17,3 +17,4 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - Date/Time: DATE, TIME, TIMESTAMP, INTERVAL
 - Boolean: BOOLEAN
 - UUID
+- JSON / JSONB
