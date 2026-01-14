@@ -18,3 +18,4 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - Boolean: BOOLEAN
 - UUID
 - JSON / JSONB
+- ARRAY
