@@ -78,6 +78,7 @@ DELETE FROM users WHERE id = 1;
 
 - INNER JOIN
 - LEFT JOIN
+- RIGHT JOIN
 
 
 
