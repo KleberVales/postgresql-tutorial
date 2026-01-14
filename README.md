@@ -45,5 +45,7 @@ CREATE TABLE users (
 - CHECK
 - DEFAULT
 
+## 🔗 Relationships
+
 
 
