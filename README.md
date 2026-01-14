@@ -38,5 +38,7 @@ CREATE TABLE users (
 
 ### Constraints
 
+- PRIMARY KEY
+
 
 
