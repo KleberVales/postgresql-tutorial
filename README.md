@@ -43,6 +43,7 @@ CREATE TABLE users (
 - UNIQUE
 - NOT NULL
 - CHECK
+- DEFAULT
 
 
 
