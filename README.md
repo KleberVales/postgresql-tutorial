@@ -59,5 +59,12 @@ FOREIGN KEY (user_id) REFERENCES users(id)
 
 ### Basic Commands
 
+```sql
+SELECT * FROM users;
+INSERT INTO users (name, email) VALUES ('Kleber', 'k@email.com');
+UPDATE users SET name = 'New Name' WHERE id = 1;
+DELETE FROM users WHERE id = 1;
+```
+
 
 
