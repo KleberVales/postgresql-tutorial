@@ -93,5 +93,7 @@ INNER JOIN orders o ON u.id = o.user_id;
 - GROUP BY
 - HAVING
 
+## ⚡ Indexes
+
 
 
