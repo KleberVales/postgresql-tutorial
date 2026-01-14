@@ -68,5 +68,7 @@ DELETE FROM users WHERE id = 1;
 
 ### Filtering & Ordering
 
+- WHERE, AND, OR
+
 
 
