@@ -95,5 +95,19 @@ INNER JOIN orders o ON u.id = o.user_id;
 
 ## ⚡ Indexes
 
+Improve query performance:
+
+```sql
+CREATE INDEX idx_users_email ON users(email);
+```
+
+- Types:
+
+    - B-tree (default)
+
+    - Hash
+
+    - GIN / GiST (JSON, full-text search)
+
 
 
