@@ -40,6 +40,7 @@ CREATE TABLE users (
 
 - PRIMARY KEY
 - FOREIGN KEY
+- UNIQUE
 
 
 
