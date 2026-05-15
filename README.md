@@ -74,7 +74,7 @@ DELETE FROM users WHERE id = 1;
 - LIKE, ILIKE
 - IN, BETWEEN
 
-## 📐 Joins
+### 📐 Joins
 
 - INNER JOIN
 - LEFT JOIN
@@ -87,13 +87,13 @@ FROM users u
 INNER JOIN orders o ON u.id = o.user_id;
 ```
 
-## 📈 Aggregations
+### 📈 Aggregations
 
 - COUNT, SUM, AVG, MIN, MAX
 - GROUP BY
 - HAVING
 
-## ⚡ Indexes
+### ⚡ Indexes
 
 Improve query performance:
 
@@ -109,7 +109,7 @@ CREATE INDEX idx_users_email ON users(email);
 
     - GIN / GiST (JSON, full-text search)
  
-## 🔐 Transactions
+## 6. 🔐 Transactions
 
 - ACID compliant
 
