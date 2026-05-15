@@ -155,7 +155,7 @@ $$ LANGUAGE plpgsql;
 
 ```
 
-## 📦 Backup & Restore
+## 9. 📦 Backup & Restore
 
 - Backup: pg_dump
 
