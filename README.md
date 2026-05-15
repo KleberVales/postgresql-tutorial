@@ -131,7 +131,7 @@ CREATE ROLE app_user LOGIN PASSWORD '123';
 GRANT SELECT, INSERT ON users TO app_user;
 ```
 
-## ⚙️ Views & Functions
+## 8. ⚙️ Views & Functions
 
 - View: Stored query
 
