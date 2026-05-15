@@ -45,7 +45,7 @@ CREATE TABLE users (
 - CHECK
 - DEFAULT
 
-## 🔗 Relationships
+## 5. 🔗 Relationships
 
 - One-to-One
 - One-to-Many
