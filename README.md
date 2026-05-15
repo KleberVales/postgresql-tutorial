@@ -122,7 +122,7 @@ COMMIT;
 
 - ROLLBACK to cancel
 
-## 🔒 Security & Roles
+## 7. 🔒 Security & Roles
 
 - Roles = users + permissions
 
