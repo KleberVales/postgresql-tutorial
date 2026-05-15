@@ -1,10 +1,10 @@
 # postgresql-tutorial
 
-## What is PostgreSQL?
+## 1. What is PostgreSQL?
 
 PostgreSQL is an open-source, object-relational database management system (ORDBMS) known for performance, reliability, extensibility, and SQL compliance.
 
-## 🗄️ Core Concepts
+## 2. 🗄️ Core Concepts
 
 ### Databases & Schemas
 - Database: Logical container for data.
