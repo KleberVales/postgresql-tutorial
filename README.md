@@ -20,7 +20,7 @@ PostgreSQL is an open-source, object-relational database management system (ORDB
 - JSON / JSONB
 - ARRAY
 
-## 🧱 Tables & Constraints
+## 4. 🧱 Tables & Constraints
 
 ### Table Creation
 
