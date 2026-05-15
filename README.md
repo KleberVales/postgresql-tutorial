@@ -45,7 +45,7 @@ CREATE TABLE users (
 - CHECK
 - DEFAULT
 
-## 5. 🔗 Relationships
+### 🔗 Relationships
 
 - One-to-One
 - One-to-Many
@@ -55,7 +55,7 @@ CREATE TABLE users (
 FOREIGN KEY (user_id) REFERENCES users(id)
 ```
 
-## 🔍 Queries (DML)
+## 5. 🔍 Queries (DML)
 
 ### Basic Commands
 
