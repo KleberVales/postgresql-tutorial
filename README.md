@@ -4,7 +4,41 @@
 
 PostgreSQL is an open-source, object-relational database management system (ORDBMS) known for performance, reliability, extensibility, and SQL compliance.
 
-## 2. 🗄️ Core Concepts
+## 2. Databases 
+
+## 3. Schemas
+
+## 4. Tables 
+
+## 5. Data Types
+
+## 6. Constraints
+
+## 7. Relationships
+
+## 8. Queries (DML)
+
+## 9. Filtering & Ordering
+
+## 10. Joins 
+
+## 11. Aggregations 
+
+## 12. Indexes 
+
+## 13. Transactions
+
+## 14. Security & Roles
+
+## 15. Views & Functions
+
+## 16. Backup & Restore
+
+
+
+
+
+## 2. Core Concepts
 
 ### Databases & Schemas
 - Database: Logical container for data.
@@ -87,7 +121,7 @@ FROM users u
 INNER JOIN orders o ON u.id = o.user_id;
 ```
 
-### Aggregations
+### Aggregations 
 
 - COUNT, SUM, AVG, MIN, MAX
 - GROUP BY
